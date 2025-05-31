@@ -1,0 +1,6 @@
+Good understanding of Data Structure and algorithms like Graphs, Tree, Stack, Queues, Maps and Heaps. 
+Algorithms like Traversals,
+ BFS
+ , DFS,
+ Divide and Conquer,
+ Sorting and lists. 
