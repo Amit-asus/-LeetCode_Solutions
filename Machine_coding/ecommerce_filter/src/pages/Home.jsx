@@ -8,7 +8,7 @@ const Home = () => {
     state: { products },
   } = ShoppingCartState ;
   return (
-    <div>Home</div>
+    <div>Home some</div>
   )
 }
 
