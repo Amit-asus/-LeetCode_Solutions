@@ -1,10 +1,10 @@
 import "./App.css";
-import UseStateHook from "./components/useState";
+import UseEffectHook from "./components/UseEffectHook";
 
 function App() {
   return (
     <>
-      Hello <UseStateHook />
+      Hello <UseEffectHook />
     </>
   );
 }
